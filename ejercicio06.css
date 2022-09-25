@@ -1,0 +1,12 @@
+.boton:hover {
+    color: white;
+    background-color: green;
+}
+
+.boton span {
+    display: none;
+}
+
+.boton::after {
+    content: '¡Hecho!';
+}
