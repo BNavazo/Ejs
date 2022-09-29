@@ -1,0 +1,7 @@
+.btn-modern:hover {
+    background-color: yellow;
+    color: red;
+    transform: translateY(-5px);
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px 2px black;
+}
